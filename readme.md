@@ -43,3 +43,14 @@ python test_scripts/style_classi_new.py
 ```
 
 ## Citation
+
+```
+@article{Feng2023RobustDL,
+  title={Robust Dancer: Long-term 3D Dance Synthesis Using Unpaired Data},
+  author={Bin Feng and Tenglong Ao and Zequn Liu and Wei Ju and Libin Liu and Ming Zhang},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2303.16856}
+}
+```
+

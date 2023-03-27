@@ -13,7 +13,7 @@
 
 #### Get the checkpoint
 
-
+get trained checkpoint from: https://drive.google.com/drive/folders/1Z-kghUqJLEbjgzg2soHsmnWoM62r5EzL?usp=sharing 
 
 #### Run the code
 
